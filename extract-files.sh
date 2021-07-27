@@ -14,7 +14,7 @@ fi
 set -e
 
 # Required!
-export DEVICE=kunlun2
+export DEVICE=kunlun2_row
 export DEVICE_COMMON=sdm710-common
 export VENDOR=lenovo
 

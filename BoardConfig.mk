@@ -7,10 +7,10 @@
 # Inherit from sdm710-common
 -include device/lenovo/sdm710-common/BoardConfigCommon.mk
 
-DEVICE_PATH := device/lenovo/kunlun2
+DEVICE_PATH := device/lenovo/kunlun2_row
 
 # Kernel
 TARGET_KERNEL_CONFIG := kunlun2_defconfig
 
 # Inherit from the proprietary version
--include vendor/lenovo/kunlun2/BoardConfigVendor.mk
+-include vendor/lenovo/kunlun2_row/BoardConfigVendor.mk

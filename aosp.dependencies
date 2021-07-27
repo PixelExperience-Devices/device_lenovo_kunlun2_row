@@ -10,8 +10,8 @@
       "branch": "eleven"
    },
    {
-      "repository":  "vendor_lenovo_kunlun2",
-      "target_path": "vendor/lenovo/kunlun2",
+      "repository":  "vendor_lenovo_kunlun2_row",
+      "target_path": "vendor/lenovo/kunlun2_row",
       "branch": "eleven",
    }
 ]

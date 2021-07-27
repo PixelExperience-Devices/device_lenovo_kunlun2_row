@@ -23,9 +23,9 @@ TARGET_BOOT_ANIMATION_RES := 1080
 $(call inherit-product, vendor/aosp/config/common_full_phone.mk)
 
 # Device identifier. This must come after all inclusions.
-PRODUCT_NAME := aosp_kunlun2
+PRODUCT_NAME := aosp_kunlun2_row
 PRODUCT_BRAND := lenovo
-PRODUCT_DEVICE := kunlun2
+PRODUCT_DEVICE := kunlun2_row
 PRODUCT_MANUFACTURER := lenovo
 PRODUCT_MODEL := Lenovo K10 Note
 
