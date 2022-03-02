@@ -1,2 +1,5 @@
 # Bluetooth
 bluetooth.device.default_name=Lenovo K10 Note
+
+# USB
+vendor.usb.product_string=Lenovo K10 Note
